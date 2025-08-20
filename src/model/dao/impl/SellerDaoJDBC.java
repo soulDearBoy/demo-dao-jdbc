@@ -250,5 +250,11 @@ while (rs.next()) {
 	DB.closeResultSet(rs);
 	}
 	}
+
+	@Override
+	public void update(Seller obj) {
+		// TODO Auto-generated method stub
+		
+	}
 		
 }
